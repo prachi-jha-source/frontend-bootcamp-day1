@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+header {
+  background: lightblue;
+  padding: 10px;
+  text-align: center;
+  border:2px solid blue;
+}
+
+.title {
+  color: black;
+}
+
+nav {
+  background: Grey;
+  color: Black;
+  padding: 10px;
+  text-align:center;
+  border:2px solid black;
+}
+
+section {
+  padding: 25px;
+  border:1px solid green;
+  }
+
+.h3,p{
+text-align:center;
+}
+
+form {
+  padding: 15px;
+}
+
+button {
+  background: black;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 6px;
+}
+
+footer {
+  background: lightgray;
+  padding: 30px;
+  text-align:center;
+}
